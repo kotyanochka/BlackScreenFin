@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BlackWindow.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">host=localhost;virtualHost=/;username=guest;password=guest</Value>
+    </Setting>
+    <Setting Name="QueueName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BlackScreen</Value>
+    </Setting>
+    <Setting Name="ShowTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="ExchangeName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BlackScreenExchange</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
